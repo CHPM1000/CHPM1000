@@ -1,13 +1,9 @@
-Olá me chamo HENRIQUE 🙋‍♂️ !!
-- 🌱 No momento estou estudando ... Linguagem de programação Python/machine learning
-- 📧 gmail: Carloshenriquelaleque@gmail.com
-- 📲 Whats: (11)94574-6877
+Olá me chamo HENRIQUE 🙋‍♂️ !! BEM VINDO AO MEU PERFIL 😁
 
-<div align="center">
-  <a href="https://github.com/CHPM1000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHPM1000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHPM1000&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- 🏃‍♂️ Estou em busca da famosa transição de carreira,de preparador de máquinas cnc, para desenvolvedor 😍.
+- 🌱 No momento estou estudando ... Linguagem de programação Python/machine learning
+- 📲  Celular :(11)94574-6877
+
   
   ##
  
