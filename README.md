@@ -2,7 +2,13 @@
 
 <h2>
 - 🌱 No momento estou estudando ... Python/Django/Flask </h2>
-
+<style> 
+body {
+     background-image: url("mariowall.jpg");
+    color: darkgreen;
+    font-size: 30px;
+}
+</style>
   
   ##
  
