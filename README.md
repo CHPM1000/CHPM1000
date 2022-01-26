@@ -1,8 +1,7 @@
 <h1><center>Bem vindo ao meu perfil</center> </h1>
 
 <h2>
-- 🌱 No momento estou estudando ... Python/Django/Flask
-  - <center>📲  Celular :(11)94574-6877 </center></h2>
+- 🌱 No momento estou estudando ... Python/Django/Flask </h2>
 
   
   ##
