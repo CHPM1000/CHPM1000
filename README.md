@@ -1,8 +1,8 @@
-<h1>Olá me chamo HENRIQUE 🙋‍♂️ !! BEM VINDO AO MEU PERFIL 😁</h1>
+<h1><center>Bem vindo ao meu perfil</center> </h1>
 
 <h2>
 - 🌱 No momento estou estudando ... Python/Django/Flask
-- 📲  Celular :(11)94574-6877 </h2>
+  - <center>📲  Celular :(11)94574-6877 </center></h2>
 
   
   ##
