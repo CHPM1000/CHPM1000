@@ -1,6 +1,6 @@
 <h1>Olá me chamo HENRIQUE 🙋‍♂️ !! BEM VINDO AO MEU PERFIL 😁</h1>
 
-<h2>- 🏃‍♂️ Estou em busca da famosa transição de carreira,de preparador de máquinas cnc, para desenvolvedor 😍.
+<h2>
 - 🌱 No momento estou estudando ... Python/Django/Flask
 - 📲  Celular :(11)94574-6877 </h2>
 
