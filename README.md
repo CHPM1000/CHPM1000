@@ -9,7 +9,7 @@
  
 - Thanks for visiting. 
  
-- Enjoy it!! o/
+
 
 
 ![wp2730855](https://user-images.githubusercontent.com/91853975/158270578-24053553-b325-4a7e-aaf9-8c8437171a9e.gif)
